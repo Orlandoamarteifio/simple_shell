@@ -1,5 +1,5 @@
 # simple_shell
-A joint Alx software engineering project between Emmanuel Amarteifio and Hibah Ahmed
+A joint Alx software engineering project between Emmanuel Amarteifio and Hibah Ahmed, where are tasked to create our own shell and writes codes that can be used to perform some simple functions. 
 
 
 Description This repo has our custom shell project, which attempts to replicate some of the processes of the 'sh' shell or 'bash' shell. C language standard functions and system calls utilized
@@ -81,10 +81,20 @@ You have to handle the “end of file” condition (Ctrl+D)
 
 WHAT WE LEARNT 
 
-How a shell works and finds commands
-Creating, forking and working with processes
-Executing a program from another program
-Handling dynamic memory allocation in a large program
-Pair programming and team work
-Building a test suite to check our own code
 
+How a shell works and finds commands
+
+
+Creating, forking and working with processes
+
+
+Executing a program from another program
+
+
+Handling dynamic memory allocation in a large program
+
+
+Pair programming and team work
+
+
+Building a test suite to check our own code
